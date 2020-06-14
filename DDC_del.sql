@@ -1,0 +1,12 @@
+USE eMergeBIS4530DB
+GO
+truncate TABLE [eMergeBIS4530DB].[SAPIENS].[LG]
+GO
+truncate TABLE [eMergeBIS4530DB].[SAPIENS].[LGLEX]
+GO
+truncate TABLE [eMergeBIS4530DB].[SAPIENS].[LGDLK]
+GO
+truncate TABLE [eMergeBIS4530DB].[SAPIENS].[LGCAT]
+GO
+
+quit

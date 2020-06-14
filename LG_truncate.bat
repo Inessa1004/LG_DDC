@@ -1,0 +1,1 @@
+sqlcmd -S tamlfqa -d eMergeBIS4530DB  -U sapiens -P sapiens  -i  c:\TAMLOG\DDC\LG\DDC_del.sql -o c:\TAMLOG\DDC\LG\DDC_del.lst

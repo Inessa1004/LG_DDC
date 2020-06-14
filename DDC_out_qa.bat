@@ -1,0 +1,5 @@
+bcp eMergeBIS4530DB.SAPIENS.LG    out "C:\TAMLOG\DDC\LG\LG.bcp"     -c -S "tamlfqa" -U sapiens -P sapiens -o "C:\TAMLOG\DDC\LG\LG_qa_out.lst" 
+bcp eMergeBIS4530DB.SAPIENS.LGCAT out "C:\TAMLOG\DDC\LG\LGCAT.bcp"  -c -S "tamlfqa" -U sapiens -P sapiens -o "C:\TAMLOG\DDC\LG\LGCAT_qa_out.lst" 
+bcp eMergeBIS4530DB.SAPIENS.LGSEC out "C:\TAMLOG\DDC\LG\LGSEC.bcp"  -c -S "tamlfqa" -U sapiens -P sapiens -o "C:\TAMLOG\DDC\LG\LGSEC_qa_out.lst" 
+bcp eMergeBIS4530DB.SAPIENS.LGLEX out "C:\TAMLOG\DDC\LG\LGLEX.bcp"  -c -S "tamlfqa" -U sapiens -P sapiens -o "C:\TAMLOG\DDC\LG\LGLEX_qa_out.lst" 
+bcp eMergeBIS4530DB.SAPIENS.LGDLK out "C:\TAMLOG\DDC\LG\LGDLK.bcp"  -c -S "tamlfqa" -U sapiens -P sapiens -o "C:\TAMLOG\DDC\LG\LGDLK_qa_out.lst"
